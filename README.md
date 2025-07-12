@@ -52,7 +52,7 @@ Follow the below Steps
     
     npm install
     
-  # or
+  or
   ```
     yarn install
   ```
@@ -64,7 +64,7 @@ Follow the below Steps
     
    npm run dev
     
-  # or
+  or
   ```
    yarn dev
   ```
