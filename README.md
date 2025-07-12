@@ -62,7 +62,7 @@ Follow the below Steps
    <li>Install Run the development server
     <br><br>
     
-   npm run dev
+    npm run dev
     
   or
   ```
