@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center" id='readme-top'>
+  
+  <h1 align="center">🌿 LunaSkin – Skincare Product Website</h1>
 
-## Getting Started
+  <p align="center">
+   A clean, modern skincare e-commerce interface built with Next.js, Tailwind CSS, and Framer Motion. This responsive web application showcases product collections, smooth animations, and an elegant shopping experience.
+    <br />   
+    <br />
+    <a href="https://lunaskin.vercel.app">You can see the Demo Live</a>
+  </p>
+</div>
 
-First, run the development server:
+## Project Looks
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- ✅ Modern UI with responsive layout
+- 🛍️ Product filtering and categorization
+- 🎨 Smooth animations powered by Framer Motion
+- 📦 Scrollable product carousels
+- 💬 Interactive FAQ accordion
+- 🔐 Badge components and call-to-actions
+- 🌐 Deployed seamlessly via Vercel
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js – React framework for server-side rendering and routing
+- Tailwind CSS – Utility-first CSS framework
+- Framer Motion – Animations and transitions
+- Lucide Icons – Icon set for UI elements
+- Vercel – Hosting and CI/CD
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 🚀 Getting Started
+Follow the below Steps
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<ol>
+  <li>
+   Clone the repository
+    <br><br>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+     git clone https://github.com/your-username/Skincare-Assignment.git
+     cd Skincare-Assignment
+     
+  </li>
+  
+  <li>Install dependencies 
+    <br><br>
+    
+    npm install
+    
+  # or
+  ```
+    yarn install
+  ```
+    
+  </li>
+
+   <li>Install Run the development server
+    <br><br>
+    
+   npm run dev
+    
+  # or
+  ```
+   yarn dev
+  ```
+    
+  </li>
+</ol>
+
+Visit http://localhost:3000 to view it in the browser.
+
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. 
+Don't forget to give the project a star! Thanks again!
+
+<a href="">Report the Bug</a>
+
+<a href="">Feature requests</a>
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@aakash22raj](https://www.instagram.com/aakash22raj/) - aakashrajgic@gamil.com
+
+Project Link - [https://github.com/aakash22raj/Personal-Portfolio](https://github.com/aakash22raj/Skincare-Assignment)
