@@ -92,7 +92,3 @@ Your Name - [@aakash22raj](https://www.instagram.com/aakash22raj/) - aakashrajgi
 
 Project Link - [https://github.com/aakash22raj/Personal-Portfolio](https://github.com/aakash22raj/Skincare-Assignment)
 
-
-## contributors
-
-![Contributors](https://contrib.rocks/image?repo=aakash22raj/Skincare-Assignment)
